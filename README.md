@@ -199,6 +199,17 @@ Distribué sous licence **MIT**. Voir [LICENSE](LICENSE) pour plus d'information
 Si ce dépôt vous plaît, laissez une **étoile** ⭐ sur GitHub — ça fait toujours plaisir et ça aide le projet à être découvert.
 
 ---
+### 🎨 HTML Art
+
+Collection d'œuvres d'art HTML/CSS.
+
+## 🎬 Demo — LA COURSE À L'ÉLYSÉE
+
+[![Aperçu](preview.png)](https://gunout.github.io/html-art/)
+
+👉 **[Ouvrir la démo interactive](https://gunout.github.io/html-art/)**
+
+---
 
 <div align="center">
 
