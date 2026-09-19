@@ -2,7 +2,6 @@
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
-<title>LA COURSE À L'ÉLYSÉE</title>
 </head>
 <body style="background-color: #000000; margin: 0; padding: 20px;">
 
