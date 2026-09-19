@@ -4,9 +4,13 @@
 
 Aucun JavaScript, aucune dépendance : juste du `<pre>`, des `<b style="color:#...">` et beaucoup de caractères.
 
+### 🔗 [**Voir la démo en ligne →**](https://gunout.github.io/html-art/)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
 [![No Dependencies](https://img.shields.io/badge/Dependencies-none-brightgreen.svg)](#)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?logo=githubpages&logoColor=white)](https://gunout.github.io/html-art/)
+
 
 ---
 
