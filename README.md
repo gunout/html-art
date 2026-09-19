@@ -203,11 +203,9 @@ Si ce dépôt vous plaît, laissez une **étoile** ⭐ sur GitHub — ça fait t
 
 Collection d'œuvres d'art HTML/CSS.
 
-## 🎬 Demo — LA COURSE À L'ÉLYSÉE
+## 🎬 Demo
 
-[![Aperçu](preview.png)](https://gunout.github.io/html-art/)
-
-👉 **[Ouvrir la démo interactive](https://gunout.github.io/html-art/)**
+[![Voir la démo](https://img.shields.io/badge/🎨_Voir_la_démo-LA_COURSE_À_L'ÉLYSÉE-blue?style=for-the-badge)](https://gunout.github.io/html-art/)
 
 ---
 
